@@ -7,4 +7,4 @@
 
 ## License
 
-[CCO](LICENSE)
+[CC0](LICENSE)
